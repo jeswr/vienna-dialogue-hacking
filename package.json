@@ -8,7 +8,7 @@
     "@types/n3": "^1.16.4",
     "body-parser": "^1.20.2",
     "commander": "^11.1.0",
-    "express": "^4.18.2",
+    "express": "^4.19.2",
     "eyereasoner": "^10.7.2",
     "n3": "github:rdfjs/N3.js#fd6e7f1d5982fa113349a6ad03ad99e52db898d7",
     "rdfjs-c14n": "^3.0.0",
